@@ -47,5 +47,4 @@ pip install pygments  # We'll be using this for the code highlighting
   - そもそもあるん？
 - [ ] uv をつかえるようにしたい
   - そもそも uv is なにってことについて package manager くらいしか現状知らない
-- [ ] pydantic とかいうのが型をいいカンジにしてくれるらしいので
-使ってみたい
+- [ ] pydantic とかいうのが型をいいカンジにしてくれるらしいので使ってみたい
